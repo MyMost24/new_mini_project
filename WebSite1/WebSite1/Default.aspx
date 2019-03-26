@@ -4,16 +4,17 @@
 
 
     <div class="container-fluid">
-        <div class="row " id="manu">
-            <div class="col-lg-6">
-                <a class="btnimg1 container-fluid active nav-link" runat="server" href="~/About">
+        <div class="row justify-content-center " id="manu">
+            <div class="col-lg-4">
+                <a class="btnimg1 container active nav-link"  runat="server" href="~/Menu">
                     <div class="card">
-                        <h1 class="text-center" id="font">เมนูอาหาร</h1>
+                        <h1 class="text-center" id="font" >เมนูอาหาร</h1>
+
                     </div>
                 </a>
             </div>
-            <div class="col-lg-6">
-                <a class="btnimg container-fluid active nav-link" runat="server" href="~/About">
+            <div class="col-lg-4">
+                <a class="btnimg container active nav-link" runat="server" href="~/About">
                     <div class="card">
                         <h1 class="text-center" id="font">จองโต๊ะ</h1>
                     </div>
@@ -21,6 +22,7 @@
             </div>
         </div>
     </div>
+
 
 
 </asp:Content>
