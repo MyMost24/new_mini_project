@@ -69,12 +69,12 @@ body {
 
 hr {
   box-sizing: content-box;
-  height: 0;
+  height: 367px;
   overflow: visible;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-top: 0;
+  margin-top: 62px;
   margin-bottom: 0.5rem;
 }
 
@@ -197,6 +197,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+    margin-top: 53px;
 }
 
 svg {
@@ -370,10 +371,12 @@ h3, .h3 {
 
 h4, .h4 {
   font-size: 1.5rem;
+    width: 99px;
 }
 
 h5, .h5 {
   font-size: 1.25rem;
+    height: 22px;
 }
 
 h6, .h6 {
@@ -4532,6 +4535,7 @@ input[type="button"].btn-block {
 
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 0px;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
@@ -7645,10 +7649,11 @@ button.bg-dark:focus {
 
 .fixed-top {
   position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
+  top: 395px;
+  right: -96px;
+  left: 96px;
   z-index: 1030;
+    height: 130px;
 }
 
 .fixed-bottom {
