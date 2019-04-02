@@ -8,9 +8,10 @@
     </div>
 
         </div>
-        <div class="col">
+        <div class="col" >
              <div class="row" style="margin-right: 100px">
-        <div class="card" style="width: 40rem;">
+                 
+        <div  style="width: 40rem;">
             <div class="card-body">
                 <h5 class="card-title">จองโต๊ะ</h5>
                 <p class="card-text">ชื่อ:
