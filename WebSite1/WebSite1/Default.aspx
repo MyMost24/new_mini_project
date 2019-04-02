@@ -14,7 +14,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a class="btnimg container active nav-link" runat="server" href="~/About">
+                <a class="btnimg container active nav-link" runat="server" href="~/จองโต๊ะ">
                     <div class="card">
                         <h1 class="text-center" id="font">จองโต๊ะ</h1>
                     </div>

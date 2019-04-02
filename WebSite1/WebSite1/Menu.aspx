@@ -36,7 +36,7 @@
                 <div class="card">
                     <h1 class="text-center" id="font">Dessert&Drink</h1>
                 </div>
-                 <a class=""  runat="server" href="~/Dessert&Drink">
+                 <a class=""  runat="server" href="~/DessertDrink">
                 <img src="imge/img07.jpg" class="rounded w-100" alt="Cinque Terre">
                      </a>
             </div>
