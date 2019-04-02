@@ -1,7 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="เมนูแนะนำ.aspx.cs" Inherits="เมน_แนะนำ" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Main course.aspx.cs" Inherits="Main_course" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
-    <div class="row " style="margin-top:30px">
+     <div class="row " style="margin-top:30px">
         <div class="col-sm-4">
             <img src="imge/เมนูแนะนำ1.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
@@ -48,7 +48,8 @@
             <p>ชื่ออาหาร,ราคา</p>
         </div>
 
+       
+
     </div>
-          
 </asp:Content>
 

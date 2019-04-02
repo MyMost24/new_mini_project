@@ -1,30 +1,30 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="เมนูแนะนำ.aspx.cs" Inherits="เมน_แนะนำ" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="DessertDrink.aspx.cs" Inherits="DessertDrink" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <div class="row " style="margin-top:30px">
         <div class="col-sm-4">
-            <img src="imge/เมนูแนะนำ1.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
+            <img src="imge/เครื่องดื่ม1.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
         </div>
 
 
         <div class="col-sm-4">
-            <img src="imge/เมนูแนะนำ2.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
+            <img src="imge/เครื่องดื่ม2.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
         </div>
 
         <div class="col-sm-4">
-            <img src="imge/เมนูแนะนำ3.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
+            <img src="imge/เครื่องดื่ม3.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
         </div>
 
          <div class="col-sm-4">
-            <img src="imge/เมนูแนะนำ4.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
+            <img src="imge/เครื่องดื่ม4.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
         </div>
 
          <div class="col-sm-4">
-            <img src="imge/เมนูแนะนำ5.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
+            <img src="imge/เครื่องดื่ม5.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
         </div>
 
@@ -42,13 +42,11 @@
             <img src="imge/เมนูแนะนำ8.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
         </div>
-
          <div class="col-sm-4">
             <img src="imge/เมนูแนะนำ9.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
         </div>
-
-    </div>
-          
+        
+        </div>
 </asp:Content>
 

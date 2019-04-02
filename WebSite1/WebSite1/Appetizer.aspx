@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="เมนูแนะนำ.aspx.cs" Inherits="เมน_แนะนำ" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Appetizer.aspx.cs" Inherits="Appetizer" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <div class="row " style="margin-top:30px">
@@ -47,8 +47,6 @@
             <img src="imge/เมนูแนะนำ9.jpg" class="circle" alt="Cinque Terre" width="304" height="236">
             <p>ชื่ออาหาร,ราคา</p>
         </div>
-
-    </div>
-          
+        </div>
 </asp:Content>
 
